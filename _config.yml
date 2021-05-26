@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Projects, Posts and Problems
+description:
+author: Rawle Paul
+github: https://github.com/rawle-p
+about: Math student, tutor, Python instructor, intern, sushi lover
+disqus_shortname: projects
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -31,14 +31,13 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: About My Website
       url: /about/
-    - text: My Projects
+    - text: My Personal Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    
 
-url: "https://agusmakmun.github.io"
+url: "https://rawle-p.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
