@@ -46,8 +46,7 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
- 
-show_excerpts: true
+  
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
