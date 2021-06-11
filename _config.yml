@@ -2,7 +2,7 @@ title: "Projects, Posts and Problems"
 description:
 author: Rawle Paul
 github: https://github.com/rawle-p
-about: math student, tutor, python instructor, intern, sushi lover
+about: math student and tutor
 disqus_shortname: projects
 google_analytics: UA-XXXXXXXX-Y
 
@@ -24,16 +24,16 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "#"
 
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
-    - text: About My Website
+    - text: About Me
       url: /about/
-    - text: My Personal Projects
+    - text: Algebra 2
       url: /projects/
     
 
